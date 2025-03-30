@@ -70,13 +70,38 @@ As etapas envolvidas em um algoritmo RL típico são as seguintes:
 
 ## 3. Aplicações Práticas [&#x21ba;](#agenda)
 
-- **Jogos:** AlphaGo, AlphaZero, Deep Q-Networks para Atari.
-- **Robótica:** Locomoção, manipulação robótica, navegação.
-- **Otimização de Recursos:** Alocação de recursos, planejamento e agendamento.
-- **Saúde:** Planejamento de tratamentos, diagnósticos otimizados.
-- **Finanças:** Negociação algorítmica, gestão de portfólio.
-- **Sistemas Autônomos:** Veículos autônomos, drones.
-- **Processamento de Linguagem Natural:** Sistemas de diálogo, tradução automática.
+- ### **Jogos:** AlphaGo, AlphaZero, Deep Q-Networks para Atari. 
+
+![Figure 5](../imgs/atari.gif)
+
+
+- ### **Robótica:** Locomoção, manipulação robótica, navegação.
+
+
+![Figure 6](../imgs/agresive-walk.gif)
+
+- ### **Sistemas Autônomos:** Veículos autônomos, drones, sistemas de controle.
+
+
+![Figure 7](../imgs/reinforcement_stand.gif)
+
+- ### **Processamento de Linguagem Natural:** Sistemas de diálogo, tradução automática.
+
+![Figure 8](../imgs/reinforcement_stand.gif)
+
+
+
+- ### **Outros Usos:**
+
+  - #### **Otimização de Recursos:** Alocação de recursos, planejamento e agendamento.
+
+  - #### **Saúde:** Planejamento de tratamentos, diagnósticos otimizados.
+
+  - #### **Finanças:** Negociação algorítmica, gestão de portfólio.
+
+
+
+
 
 ## 4. Exemplo [&#x21ba;](#agenda)
 
@@ -85,5 +110,5 @@ As etapas envolvidas em um algoritmo RL típico são as seguintes:
 ## 5. Referências [&#x21ba;](#agenda)
 
 1. "Reinforcement Learning: An Introduction" de Richard S. Sutton e Andrew G. Barto.
-2. 
-
+2. Mnih, V., Kavukcuoglu, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D. and Riedmiller, M., 2013. Playing atari with deep reinforcement learning. arXiv preprint arXiv:1312.5602.
+3. Berseth, G., Golemo, F. and Pal, C., Visual Imitation with Reinforcement Learning using Recurrent Siamese Networks.
