@@ -87,8 +87,7 @@ As etapas envolvidas em um algoritmo RL típico são as seguintes:
 
 - ### **Processamento de Linguagem Natural:** Sistemas de diálogo, tradução automática.
 
-![Figure 8](../imgs/reinforcement_stand.gif)
-
+![Figure 8](../imgs/fine_tunning_with_RFHF.png)
 
 
 - ### **Outros Usos:**
@@ -100,15 +99,16 @@ As etapas envolvidas em um algoritmo RL típico são as seguintes:
   - #### **Finanças:** Negociação algorítmica, gestão de portfólio.
 
 
-
-
-
 ## 4. Exemplo [&#x21ba;](#agenda)
 
+![Figure 10](../imgs/video.mp4)
 
 
 ## 5. Referências [&#x21ba;](#agenda)
 
-1. "Reinforcement Learning: An Introduction" de Richard S. Sutton e Andrew G. Barto.
+1. Reinforcement Learning: An Introduction. Richard S. Sutton, Andrew G. Barto. http://incompleteideas.net/book/the-book.html.
 2. Mnih, V., Kavukcuoglu, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D. and Riedmiller, M., 2013. Playing atari with deep reinforcement learning. arXiv preprint arXiv:1312.5602.
 3. Berseth, G., Golemo, F. and Pal, C., Visual Imitation with Reinforcement Learning using Recurrent Siamese Networks.
+4. Guo, D., Yang, D., Zhang, H., Song, J., Zhang, R., Xu, R., Zhu, Q., Ma, S., Wang, P., Bi, X. and Zhang, X., 2025. Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning. arXiv preprint arXiv:2501.12948.
+5. Código-Fonte do experimento de Lunar-Lender https://github.com/juliankappler/lunar-lander
+6. 
