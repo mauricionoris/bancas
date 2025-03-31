@@ -101,8 +101,7 @@ As etapas envolvidas em um algoritmo RL típico são as seguintes:
 
 ## 4. Exemplo [&#x21ba;](#agenda)
 
-![Figure 10](../imgs/video.mp4)
-
+https://user-images.githubusercontent.com/37583039/219359191-7988e0dc-b1a4-43cc-82d1-4cc18be0d0a2.mp4
 
 ## 5. Referências [&#x21ba;](#agenda)
 
