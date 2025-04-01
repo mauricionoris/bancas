@@ -110,4 +110,6 @@ https://user-images.githubusercontent.com/37583039/219359191-7988e0dc-b1a4-43cc-
 3. Berseth, G., Golemo, F. and Pal, C., Visual Imitation with Reinforcement Learning using Recurrent Siamese Networks.
 4. Guo, D., Yang, D., Zhang, H., Song, J., Zhang, R., Xu, R., Zhu, Q., Ma, S., Wang, P., Bi, X. and Zhang, X., 2025. Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning. arXiv preprint arXiv:2501.12948.
 5. Código-Fonte do experimento de Lunar-Lender https://github.com/juliankappler/lunar-lander
+6. https://gymnasium.farama.org/
+7. https://ale.farama.org/environments/complete_list/
   
